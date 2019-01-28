@@ -1,2 +1,2 @@
 # standalone
-guest repo
+repo for some things
