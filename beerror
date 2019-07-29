@@ -1,0 +1,16 @@
+[I] vbsp.fix_worldspawn(): Editing WorldSpawn
+[I] vbsp.save(): Saving New Map...
+[I] vbsp.save(): Complete!
+[I] <Valve>.run_compiler(): Calling original VBSP...
+[I] <Valve>.run_compiler(): Args: '-game', 'C:/Program Files (x86)/Steam/steamapps/common/Portal 2/portal2/', 'C:/Program Files (x86)/Steam/steamapps/common/Portal 2/sdk_content\\maps\\styled\\preview.vmf'
+[E] (unknown file).(unknown function)(): Uncaught Exception:
+Traceback (most recent call last):
+  File "F:\Git\BEE2.4\src\compiler_launch.py", line 13, in <module>
+  File "F:\Git\BEE2.4\src\vbsp.py", line 3201, in main
+  File "F:\Git\BEE2.4\src\vbsp.py", line 2933, in run_vbsp
+  File "F:\Git\srctools\srctools\run.py", line 67, in run_compiler
+  File "C:\Users\Spencer Brown\AppData\Local\Programs\Python\Python36-32\lib\subprocess.py", line 707, in __init__
+  File "C:\Users\Spencer Brown\AppData\Local\Programs\Python\Python36-32\lib\subprocess.py", line 990, in _execute_child
+OSError: [WinError 216] The version of% 1 is incompatible with the version of Windows you are running. Check the system information and contact the software distributor
+[2960] Failed to execute script compiler_launch
+
