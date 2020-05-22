@@ -11,5 +11,6 @@ those challenges will "help" you spice up the game :P
 6. Musical change, listen to another level's music
 7. Good memory!, you can only see the character
 8. Lights out, play in the dark, with most darker possible
-9. Combo, make a combo of two challenges
-10. Full combo, same as above, but with all of them
+9. Make it double, take a challenge and double it somehow
+10. Combo, make a combo of two challenges
+11. Full combo, same as above, but with all of them
